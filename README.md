@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Zitto</h1>
-<h3 align="center">A full stack developer from Argentina, working from different parts of the world (now in Barcelona, Spain)</h3>
+<h3 align="center">A full stack developer from Argentina</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **Javascript, PHP**
 
